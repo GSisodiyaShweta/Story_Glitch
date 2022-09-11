@@ -1,1 +1,1 @@
-# Story_Glitch
+This project demonstrates a tiny interactive fiction engine supporting inventory mechanics. The *descriptions* of a location and the *choices* present at that location can be filtered by requiring the player to be *with* or *without* certain items. Locations may *provide* or *consume* items upon arrival.
